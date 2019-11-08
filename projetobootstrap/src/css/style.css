@@ -1,0 +1,120 @@
+{
+    box-sizing: border-box;
+    font-family: 'Sofia', cursive;
+    font-family: 'Petit Formal Script', cursive;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  .navbar-inicio {
+    font-family: 'Sofia', cursive;
+    background-image:  url("src/assets/bg_1.jpg");
+    background-repeat: no-repeat;
+    color: black;
+  }
+
+  .nav-link /*ITENS NAVBAR */ {
+    margin-top: 20px;
+      color: black;
+      font-size: 29px;
+      margin-left: 25px;
+  }
+
+  .navbar-brand /*LOGO */ {
+      margin-top: 20px;
+      font-size: 30px;
+      color: black;
+
+  }
+
+.col-md-10 {
+    font-size: 20px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #DC143C;
+    border-color: #DC143C;
+}
+
+.btn-outline-primary {
+    color: #DC143C;
+    background-color: transparent;
+    background-image: none;
+    border-color: #DC143C;
+}
+
+
+.container-fluid {
+        width: 100%;
+        padding-right: 0px;
+        padding-left: 35px;
+        margin-right: auto;
+        margin-left: auto;
+  }
+
+  .about {
+      background-image: url("src/assets/intro.jpg");
+      font-family: 'Sofia', cursive;
+      margin-top: 20px;
+      font-size: 30px;
+      color: black;
+      text-align: right;
+  }
+
+  .cards {
+        /* cards faca seu tratamento */
+        font-family: 'Sofia', cursive;
+        padding: 10px 10px 10px 0px;
+        background-color: #f8f9fa;
+
+    }
+
+  .card-body {
+    margin: 10px 40px 0px 40px;
+  }
+  .services {
+    font-family: 'Sofia', cursive;
+      margin-top: 10px;
+      background-color: #f8f9fa;
+
+  }
+
+  .treatments-section {
+    font-family: 'Sofia', cursive;
+      background-color: #f8f9fa;
+  }
+
+  .testimony-section {
+    background-color: #f8f9fa;   
+  }
+
+  .ftco-gallery {
+    background-color: #f8f9fa;   
+
+  }
+
+  .pricing-section {
+    font-family: 'Sofia', cursive;
+
+  }
+
+  .testimony-section {
+    font-family: 'Sofia', cursive;
+
+  }
+  .ftco-gallery {
+    font-family: 'Sofia', cursive;
+
+  }
+
+  .footer {
+    padding-top: 250px;
+    font-family: 'Sofia', cursive;
+ 
+
+  }
